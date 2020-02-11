@@ -85,7 +85,7 @@ class DeepLinkingDesktopPage<P : Props> extends Component<P> {
                     <div className = 'header'>
                         <img
                             className = 'logo'
-                            src = 'images/logo-deep-linking.png' />
+                            src = 'images/patchlogo.png' />
                     </div>
                     <div className = 'content'>
                         {
